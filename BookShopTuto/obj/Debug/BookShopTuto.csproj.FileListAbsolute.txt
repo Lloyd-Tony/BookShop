@@ -1,0 +1,17 @@
+E:\学习\WinForm\BookShopTuto\BookShopTuto\bin\Debug\BookShopTuto.exe.config
+E:\学习\WinForm\BookShopTuto\BookShopTuto\bin\Debug\BookShopTuto.exe
+E:\学习\WinForm\BookShopTuto\BookShopTuto\bin\Debug\BookShopTuto.pdb
+E:\学习\WinForm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.csproj.AssemblyReference.cache
+E:\学习\WinForm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.csproj.SuggestedBindingRedirects.cache
+E:\学习\WinForm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.BookShop.resources
+E:\学习\WinForm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Login.resources
+E:\学习\WinForm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Properties.Resources.resources
+E:\学习\WinForm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.csproj.GenerateResource.cache
+E:\学习\WinForm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.csproj.CoreCompileInputs.cache
+E:\学习\WinForm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.exe
+E:\学习\WinForm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.pdb
+E:\学习\WinForm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Books.resources
+E:\学习\WinForm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.DashBoard.resources
+E:\学习\WinForm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Users.resources
+E:\学习\WinForm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.Billing.resources
+E:\学习\WinForm\BookShopTuto\BookShopTuto\obj\Debug\BookShopTuto.AdminLogin.resources
